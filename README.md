@@ -29,30 +29,6 @@ local Section = Tab:AddSection({
 	Name = "🔥الصانع🔥"
 })
 
---[[
-Name = <string> - The name of the section.
-]]
-
 local Section = Tab:AddSection({
 	Name = "🔥MOS🔥"
 })
-
---[[
-Name = <string> - The name of the section.
-]]
-
-local Section = Tab:AddSection({
-	Name = "🔥المطورين🔥"
-})
-
---[[
-Name = <string> - The name of the section.
-]]
-
-local Section = Tab:AddSection({
-	Name = "??"
-})
-
---[[
-Name = <string> - The name of the section.
-]]
